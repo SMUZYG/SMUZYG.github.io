@@ -56,4 +56,44 @@
     
   </entry>
   
+  <entry>
+    <title>博客配置教程</title>
+    <link href="https://izinngo.github.io/2019/10/28/hello-world-fu-ben/"/>
+    <id>https://izinngo.github.io/2019/10/28/hello-world-fu-ben/</id>
+    <published>2019-10-28T13:22:08.000Z</published>
+    <updated>2019-10-29T03:31:09.275Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="安装配置教程" scheme="https://izinngo.github.io/categories/%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="安装配置教程" scheme="https://izinngo.github.io/tags/%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="计算机基础" scheme="https://izinngo.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+      <category term="编程语言" scheme="https://izinngo.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="机器学习" scheme="https://izinngo.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="深度学习" scheme="https://izinngo.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="计算机视觉" scheme="https://izinngo.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
+    
+      <category term="海洋遥感" scheme="https://izinngo.github.io/tags/%E6%B5%B7%E6%B4%8B%E9%81%A5%E6%84%9F/"/>
+    
+      <category term="计算流体力学" scheme="https://izinngo.github.io/tags/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6/"/>
+    
+  </entry>
+  
 </feed>
