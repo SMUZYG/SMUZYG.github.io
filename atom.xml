@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>SMU_Zinngo</title>
+  <title>ShareStuff</title>
   
   <subtitle>Never too late to learn</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://izinngo.github.io/"/>
-  <updated>2019-10-29T03:31:09.275Z</updated>
-  <id>https://izinngo.github.io/</id>
+  <link href="https://SMUZYG.github.io/"/>
+  <updated>2020-03-07T13:56:07.849Z</updated>
+  <id>https://SMUZYG.github.io/</id>
   
   <author>
     <name>Yinggang Zheng</name>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>博客配置教程</title>
-    <link href="https://izinngo.github.io/2019/10/28/hello-world2/"/>
-    <id>https://izinngo.github.io/2019/10/28/hello-world2/</id>
-    <published>2019-10-28T13:22:08.000Z</published>
-    <updated>2019-10-29T03:31:09.275Z</updated>
+    <title>科研文献管理之Zotero、Mendeley和Docear联合使用</title>
+    <link href="https://SMUZYG.github.io/2020/02/26/2020-03-02/"/>
+    <id>https://SMUZYG.github.io/2020/02/26/2020-03-02/</id>
+    <published>2020-02-25T16:00:00.000Z</published>
+    <updated>2020-03-07T13:56:07.849Z</updated>
     
     <summary type="html">
     
@@ -29,39 +29,35 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h1 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h1&gt;&lt;!-- TOC --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#目录&quot;&gt;目录&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
         
       
     
     </summary>
     
-      <category term="安装配置教程" scheme="https://izinngo.github.io/categories/%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
+      <category term="科研" scheme="https://SMUZYG.github.io/categories/%E7%A7%91%E7%A0%94/"/>
+    
+      <category term="文献管理" scheme="https://SMUZYG.github.io/categories/%E7%A7%91%E7%A0%94/%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86/"/>
     
     
-      <category term="安装配置教程" scheme="https://izinngo.github.io/tags/%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
+      <category term="Zotero" scheme="https://SMUZYG.github.io/tags/Zotero/"/>
     
-      <category term="计算机基础" scheme="https://izinngo.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+      <category term="Mendeley" scheme="https://SMUZYG.github.io/tags/Mendeley/"/>
     
-      <category term="编程语言" scheme="https://izinngo.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
-    
-      <category term="机器学习" scheme="https://izinngo.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-      <category term="深度学习" scheme="https://izinngo.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
-    
-      <category term="计算机视觉" scheme="https://izinngo.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
-    
-      <category term="海洋遥感" scheme="https://izinngo.github.io/tags/%E6%B5%B7%E6%B4%8B%E9%81%A5%E6%84%9F/"/>
-    
-      <category term="计算流体力学" scheme="https://izinngo.github.io/tags/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6/"/>
+      <category term="Docear" scheme="https://SMUZYG.github.io/tags/Docear/"/>
     
   </entry>
   
   <entry>
-    <title>博客配置教程</title>
-    <link href="https://izinngo.github.io/2019/10/28/hello-world/"/>
-    <id>https://izinngo.github.io/2019/10/28/hello-world/</id>
-    <published>2019-10-28T13:22:08.000Z</published>
-    <updated>2019-10-29T03:31:09.275Z</updated>
+    <title>Fortran软件使用教程之SimpleFortran和Visual Studio IVF</title>
+    <link href="https://SMUZYG.github.io/2020/02/26/2020-02-26/"/>
+    <id>https://SMUZYG.github.io/2020/02/26/2020-02-26/</id>
+    <published>2020-02-25T16:00:00.000Z</published>
+    <updated>2020-03-02T06:50:11.533Z</updated>
     
     <summary type="html">
     
@@ -69,30 +65,78 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;h1 id=&quot;1-ShareStuff&quot;&gt;&lt;a href=&quot;#1-ShareStuff&quot; class=&quot;headerlink&quot; title=&quot;1. ShareStuff&quot;&gt;&lt;/a&gt;1. ShareStuff&lt;/h1&gt;&lt;p&gt;&lt;a id=&quot;markdown-sharestuff&quot;
         
       
     
     </summary>
     
-      <category term="安装配置教程" scheme="https://izinngo.github.io/categories/%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
+      <category term="软件使用教程" scheme="https://SMUZYG.github.io/categories/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="安装配置教程" scheme="https://izinngo.github.io/tags/%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
+      <category term="Visual Studio" scheme="https://SMUZYG.github.io/tags/Visual-Studio/"/>
     
-      <category term="计算机基础" scheme="https://izinngo.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+      <category term="Simple Fortran" scheme="https://SMUZYG.github.io/tags/Simple-Fortran/"/>
     
-      <category term="编程语言" scheme="https://izinngo.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+      <category term="Fortran" scheme="https://SMUZYG.github.io/tags/Fortran/"/>
     
-      <category term="机器学习" scheme="https://izinngo.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+  </entry>
+  
+  <entry>
+    <title>博客写作模板</title>
+    <link href="https://SMUZYG.github.io/2020/02/02/template/"/>
+    <id>https://SMUZYG.github.io/2020/02/02/template/</id>
+    <published>2020-02-01T16:00:00.000Z</published>
+    <updated>2020-03-02T06:50:11.533Z</updated>
     
-      <category term="深度学习" scheme="https://izinngo.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    <summary type="html">
     
-      <category term="计算机视觉" scheme="https://izinngo.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-ShareStuff&quot;&gt;&lt;a href=&quot;#1-ShareStuff&quot; class=&quot;headerlink&quot; title=&quot;1. ShareStuff&quot;&gt;&lt;/a&gt;1. ShareStuff&lt;/h1&gt;&lt;p&gt;&lt;a id=&quot;markdown-sharestuff&quot;
+        
+      
     
-      <category term="海洋遥感" scheme="https://izinngo.github.io/tags/%E6%B5%B7%E6%B4%8B%E9%81%A5%E6%84%9F/"/>
+    </summary>
     
-      <category term="计算流体力学" scheme="https://izinngo.github.io/tags/%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6/"/>
+      <category term="文章模板" scheme="https://SMUZYG.github.io/categories/%E6%96%87%E7%AB%A0%E6%A8%A1%E6%9D%BF/"/>
+    
+    
+      <category term="md模板" scheme="https://SMUZYG.github.io/tags/md%E6%A8%A1%E6%9D%BF/"/>
+    
+      <category term="博客" scheme="https://SMUZYG.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VsCode作为你的科研利器-Fortran-LaTex-知乎</title>
+    <link href="https://SMUZYG.github.io/2020/02/02/2020-02-25/"/>
+    <id>https://SMUZYG.github.io/2020/02/02/2020-02-25/</id>
+    <published>2020-02-01T16:00:00.000Z</published>
+    <updated>2020-03-02T06:50:11.533Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-ShareStuff&quot;&gt;&lt;a href=&quot;#1-ShareStuff&quot; class=&quot;headerlink&quot; title=&quot;1. ShareStuff&quot;&gt;&lt;/a&gt;1. ShareStuff&lt;/h1&gt;&lt;p&gt;&lt;a id=&quot;markdown-sharestuff&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件安装配置" scheme="https://SMUZYG.github.io/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE/"/>
+    
+    
+      <category term="Fortran" scheme="https://SMUZYG.github.io/tags/Fortran/"/>
+    
+      <category term="VsCode" scheme="https://SMUZYG.github.io/tags/VsCode/"/>
+    
+      <category term="LaTex" scheme="https://SMUZYG.github.io/tags/LaTex/"/>
     
   </entry>
   
