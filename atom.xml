@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://SMUZYG.github.io/"/>
-  <updated>2020-03-07T13:56:07.849Z</updated>
+  <updated>2020-03-08T01:44:33.494Z</updated>
   <id>https://SMUZYG.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>科研文献管理之Zotero、Mendeley和Docear联合使用</title>
+    <title>科研文献管理之Zotero、Mendeley和Docear及Papership联合使用</title>
     <link href="https://SMUZYG.github.io/2020/02/26/2020-03-02/"/>
     <id>https://SMUZYG.github.io/2020/02/26/2020-03-02/</id>
     <published>2020-02-25T16:00:00.000Z</published>
-    <updated>2020-03-07T13:56:07.849Z</updated>
+    <updated>2020-03-08T01:44:33.494Z</updated>
     
     <summary type="html">
     
@@ -49,6 +49,8 @@
       <category term="Mendeley" scheme="https://SMUZYG.github.io/tags/Mendeley/"/>
     
       <category term="Docear" scheme="https://SMUZYG.github.io/tags/Docear/"/>
+    
+      <category term="Papership" scheme="https://SMUZYG.github.io/tags/Papership/"/>
     
   </entry>
   
